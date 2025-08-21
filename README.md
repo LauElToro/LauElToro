@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hola, soy Lautaro Figueroa</h1>
 <h3 align="center">Head of Engineering @ LibertyClub · IA, Web3 y e-commerce</h3>
-
+<p align="center">
+  <a href="LAUTARO_FIGUEROA_CV.pdf" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/CV-Lautaro%20Figueroa-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV PDF" />
+  </a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lautaro-figueroa-0374a523b/" target="_blank">LinkedIn</a> ·
   <a href="mailto:LautyfigueroaLau@gmail.com">Email</a>
