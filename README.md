@@ -40,6 +40,8 @@ Soy **Head of Engineering** con foco en **IA aplicada, e-commerce y Web3**, y un
 ### 🧰 Tech Stack (MERN + TS + DevOps)
 
 <p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastapi-339933?style=for-the-badge&logo=Fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
