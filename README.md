@@ -109,7 +109,7 @@ Soy **Head of Engineering** con foco en **IA aplicada, e-commerce y Web3**, y un
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauElToro&theme=tokyonight" alt="streak"/>
+    <img src="https://streak-stats.demolab.com/?user=LauElToro&theme=tokyonight&hide_border=true" alt="GitHub Streak — Lautaro"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauElToro&layout=compact&theme=tokyonight" alt="langs"/>
