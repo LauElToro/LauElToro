@@ -109,10 +109,11 @@ Soy **Head of Engineering** con foco en **IA aplicada, e-commerce y Web3**, y un
 </p>
 
 <p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=LauElToro&theme=tokyonight&locale=es&v=2" alt="GitHub Streak — Lautaro" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauElToro&theme=tokyo-night&area=true&hide_border=true&v=2" alt="Actividad 31 días — Lautaro" />
   </a>
 </p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauElToro&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
