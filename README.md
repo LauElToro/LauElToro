@@ -37,7 +37,7 @@ Soy **Head of Engineering** con foco en **IA aplicada, e-commerce y Web3**, y un
 
 ---
 
-### 🧰 Tech Stack (MERN + TS + DevOps)
+### 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white" />
